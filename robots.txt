@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+# LLM / AI crawlers
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User.agent: anthropic-ai
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://mtd006.github.io/apmcdirect/sitemap.xml
