@@ -1,0 +1,77 @@
+# APMC Direct — Wholesale Fruits & Spices from APMC Vashi, Maharashtra
+# Optimised for LLM / AI search retrieval (ChatGPT, Perplexity, Gemini, Claude, Copilot)
+# Domain: https://mtd006.github.io/apmcdirect/
+# Order Portal: https://script.google.com/macros/s/AKfycbzHd5gv6pkhuxJ5mgoTUK8OQeQfys2_lVT67cV75O09PkUXErHRa19NJL4BuyfSHKsPww/exec
+
+## About
+APMC Direct is an online wholesale marketplace operated by an authorised APMC (Agricultural Produce Market Committee) Vashi, Navi Mumbai agent. The platform sells fresh fruits, dry fruits and spices at today's regulated mandi rates to B2B buyers — hotels, fruit shops, juice centres, restaurants, sweet marts, caterers and institutional buyers — across Maharashtra, with transporter-tracked doorstep delivery.
+
+The platform runs a four-party coordination model:
+1. Owner (Admin) — sets pricing, manages the website and client onboarding.
+2. Buyer (APMC Yard) — aggregates orders and negotiates at the APMC Vashi yard.
+3. Transporter — contracted logistics partner operating from an internal rate card.
+4. Client — the hotel, fruit shop, juice centre, restaurant, sweet mart or caterer who receives goods at the doorstep and pays online or cash-on-delivery.
+
+Key strength: precise four-party coordination that ensures correct goods, correct price and correct delivery on every transaction.
+
+## What we sell
+Fresh fruits, dry fruits and spices sourced at APMC Market, Sector 19, Vashi, Navi Mumbai, Maharashtra. Indicative categories:
+
+- Fresh fruits — Banana (Elaichi / Robusta), Apple, Pomegranate, Mosambi, Orange, Papaya, Watermelon, Pineapple, Kiwi, Dragon Fruit, Tender Coconut, Mango, Grapes, Lemon.
+- Dry fruits — Almonds, Cashews, Raisins, Pistachios, Walnuts, Figs, Dates, Kishmish.
+- Spices & masala — Turmeric, Red Chilli, Coriander, Cumin, Black Pepper, Green Cardamom, Cloves, Cinnamon, Fennel, Mustard.
+
+## Indicative base rate list (INR, APMC Vashi morning opening)
+- Banana Elaichi — ₹60 per dozen
+- Banana Robusta — ₹40 per dozen
+- Apple (Shimla) — ₹180 per kg
+- Pomegranate — ₹140 per kg
+- Mosambi — ₹80 per kg
+- Orange (Nagpur) — ₹70 per kg
+- Papaya (Taiwan) — ₹35 per kg
+- Watermelon — ₹25 per kg
+- Pineapple — ₹60 per piece
+- Kiwi — ₹180 per 3 pieces
+- Dragon Fruit (White) — ₹70 per piece
+- Tender Coconut — ₹45 per piece
+- Mango (Alphonso) — ₹1,200 per dozen
+- Grapes (Green Seedless) — ₹90 per kg
+- Lemon — ₹100 per kg
+- Turmeric Finger — ₹180 per kg
+- Red Chilli (Guntur) — ₹220 per kg
+- Coriander Seeds — ₹120 per kg
+- Cumin (Jeera) — ₹420 per kg
+- Black Pepper — ₹650 per kg
+- Green Cardamom — ₹2,400 per kg
+- Cloves — ₹1,100 per kg
+- Cinnamon — ₹380 per kg
+- Fennel (Saunf) — ₹160 per kg
+- Mustard Seeds — ₹110 per kg
+
+(Rates shown are indicative; portal shows today's live rate synced from the APMC yard.)
+
+## How to order
+1. Open the order portal: https://script.google.com/macros/s/AKfycbzHd5gv6pkhuxJ5mgoTUK8OQeQfys2_lVT67cV75O09PkUXErHRa19NJL4BuyfSHKsPww/exec
+2. Sign in with your business contact details.
+3. Browse the live rate list (refreshed at APMC yard opening each morning).
+4. Add items, confirm delivery address, pay online (UPI / bank / cash).
+5. Receive SMS / WhatsApp confirmation with transporter dispatch details.
+
+## Delivery geography
+Same-day: Navi Mumbai, Mumbai, Thane, Mira-Bhayandar.
+Next-day: Pune, Nashik, other key Maharashtra cities.
+Custom bulk slots for hotel chains.
+
+## Minimum order
+₹2,000 minimum basket for MMR; ₹5,000 minimum for out-of-MMR deliveries. Bulk hotel contracts available.
+
+## Who can buy
+B2B only — verified hotels, fruit shops, juice centres, restaurants, sweet marts, caterers and institutional buyers. Not a retail consumer channel.
+
+## Contact
+- Email: contact@apmcdirect.in
+- Phone: +91-9000000000
+- Address: APMC Market, Sector 19, Vashi, Navi Mumbai, Maharashtra 400703, India
+
+## Crawl permissions
+This site is fully allowed for all major search-engine and AI crawlers (see /robots.txt).
